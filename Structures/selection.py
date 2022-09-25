@@ -1,6 +1,3 @@
-import numbers
-
-
 number = -16
 
 if number < 0:
