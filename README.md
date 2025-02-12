@@ -22,11 +22,6 @@ Python is a powerful, high-level programming language known for its simplicity a
 - [x] Machine Learning
 
 ## 🛠️ Projects & Exercises
-As I progress, I will be working on the following:
-- ✅ Simple File Handling System
 - ✅ Data Strcutures and Algorithms 
 - ✅ Backend Web and Mobile Development 
 - ✅ Machine Learning Models
-
-Happy coding! 😊
-
